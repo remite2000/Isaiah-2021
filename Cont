@@ -1,4 +1,0 @@
-	mkdir ProjectA ; cd ProjectA
-git init 
-touch abc.java new.java sample.java
-vi sample.java 
